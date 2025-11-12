@@ -9,7 +9,7 @@ const Login = (props: Props) => {
     <div className="px-10 py-6">
       <div className="navbar flex items-center justify-between p-4">
         <div className="nav-left flex align-middle justify-center gap-8">
-          <div className="logo p-1 bg-indigo-600 rounded-md">
+          <div className="logo p-1 bg-primary rounded-md">
             <Image
               src="/assets/logo.svg"
               alt="AiEdu Logo"
